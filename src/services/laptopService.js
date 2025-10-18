@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://sheshantestbackend-hxeugfb9bzf8baem.canadacentral-01.azurewebsites.net/api';
+const API_BASE_URL = 'https://reactbackend-gmaagdd0e2dhddeg.canadacentral-01.azurewebsites.net/api';
 
 // Create axios instance with default config
 const api = axios.create({
